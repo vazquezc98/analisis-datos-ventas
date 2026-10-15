@@ -1,0 +1,501 @@
+fecha,producto,categoria,precio,cantidad,cliente
+2025-07-17,Chaqueta,Ropa,94.4,7,Cliente_043
+2025-11-13,Pelota,Deportes,24.58,10,Cliente_015
+2025-04-21,Café 500g,Alimentos,7.93,4,Cliente_038
+2025-06-30,Pelota,Deportes,24.16,1,Cliente_035
+2025-10-12,Zapatillas,Deportes,112.12,5,Cliente_001
+2025-03-20,Smartphone,Electrónica,840.93,2,Cliente_041
+2025-01-10,Raqueta,Deportes,62.9,7,Cliente_030
+2025-09-19,Chaqueta,Ropa,95.02,2,Cliente_041
+2025-07-01,Camisa,Ropa,36.27,2,Cliente_050
+2025-12-11,Aceite 1L,Alimentos,6.97,1,Cliente_042
+2025-04-30,Pantalón,Ropa,52.52,8,Cliente_035
+2025-08-05,Smartphone,Electrónica,825.44,6,Cliente_027
+2025-04-12,Zapatillas,Deportes,120.08,7,Cliente_005
+2025-03-22,Camisa,Ropa,33.35,2,Cliente_016
+2025-02-07,Raqueta,Deportes,54.78,8,Cliente_037
+2025-06-04,Pelota,Deportes,27.04,9,Cliente_030
+2025-11-05,Mesa,Hogar,196.98,7,Cliente_012
+2025-01-02,Arroz 5kg,Alimentos,12.79,1,Cliente_022
+2025-08-16,Mesa,Hogar,194.82,8,Cliente_016
+2025-05-21,Pantalón,Ropa,46.96,9,Cliente_009
+2025-09-29,Pelota,Deportes,25.2,6,Cliente_033
+2025-10-24,Silla,Hogar,74.91,10,Cliente_029
+2025-12-06,Arroz 5kg,Alimentos,12.46,5,Cliente_026
+2025-04-25,Raqueta,Deportes,63.54,4,Cliente_002
+2025-05-14,Zapatillas,Deportes,111.36,5,Cliente_046
+2025-11-11,Auriculares,Electrónica,114.99,1,Cliente_023
+2025-09-11,Pelota,Deportes,26.6,3,Cliente_003
+2025-03-09,Chaqueta,Ropa,96.78,10,Cliente_039
+2025-08-15,Pelota,Deportes,25.11,8,Cliente_020
+2025-03-19,Lámpara,Hogar,43.41,6,Cliente_029
+2025-09-14,Arroz 5kg,Alimentos,12.08,4,Cliente_036
+2025-07-24,Mesa,Hogar,203.38,10,Cliente_024
+2025-06-17,Auriculares,Electrónica,126.34,5,Cliente_008
+2025-09-27,Café 500g,Alimentos,7.72,8,Cliente_025
+2025-09-21,Café 500g,Alimentos,7.93,10,Cliente_009
+2025-03-19,Chaqueta,Ropa,91.89,9,Cliente_004
+2025-07-19,Laptop,Electrónica,1306.26,5,Cliente_027
+2025-03-15,Camisa,Ropa,34.98,10,Cliente_015
+2025-03-10,Raqueta,Deportes,60.66,2,Cliente_017
+2025-07-03,Smartphone,Electrónica,757.95,10,Cliente_037
+2025-12-30,Pantalón,Ropa,46.65,6,Cliente_015
+2025-02-09,Silla,Hogar,71.09,8,Cliente_046
+2025-09-24,Laptop,Electrónica,1250.11,1,Cliente_035
+2025-03-08,Chaqueta,Ropa,89.41,9,Cliente_040
+2025-12-27,Auriculares,Electrónica,118.52,9,Cliente_020
+2025-12-29,Chaqueta,Ropa,84.23,1,Cliente_035
+2025-09-28,Pantalón,Ropa,52.78,9,Cliente_027
+2025-06-29,Mesa,Hogar,210.5,6,Cliente_001
+2025-03-20,Chaqueta,Ropa,92.97,6,Cliente_044
+2025-10-06,Zapatillas,Deportes,105.82,7,Cliente_031
+2025-09-27,Raqueta,Deportes,64.14,2,Cliente_030
+2025-05-20,Lámpara,Hogar,40.95,2,Cliente_029
+2025-10-11,Auriculares,Electrónica,114.58,1,Cliente_019
+2025-11-07,Camisa,Ropa,34.51,10,Cliente_042
+2025-06-24,Aceite 1L,Alimentos,6.13,5,Cliente_018
+2025-09-23,Laptop,Electrónica,1256.56,8,Cliente_025
+2025-04-07,Café 500g,Alimentos,7.8,6,Cliente_045
+2025-03-20,Camisa,Ropa,37.37,10,Cliente_016
+2025-09-08,Café 500g,Alimentos,8.53,9,Cliente_046
+2025-07-22,Silla,Hogar,72.13,4,Cliente_039
+2025-07-16,Aceite 1L,Alimentos,6.95,4,Cliente_031
+2025-02-16,Smartphone,Electrónica,742.7,1,Cliente_048
+2025-05-27,Aceite 1L,Alimentos,6.13,10,Cliente_045
+2025-07-31,Aceite 1L,Alimentos,6.26,3,Cliente_045
+2025-08-13,Café 500g,Alimentos,7.41,5,Cliente_045
+2025-09-29,Pelota,Deportes,22.88,3,Cliente_024
+2025-07-26,Lámpara,Hogar,41.11,4,Cliente_008
+2025-12-15,Café 500g,Alimentos,8.58,1,Cliente_047
+2025-08-15,Silla,Hogar,73.86,10,Cliente_027
+2025-05-24,Raqueta,Deportes,59.87,7,Cliente_003
+2025-07-07,Silla,Hogar,82.2,9,Cliente_006
+2025-05-23,Chaqueta,Ropa,87.08,7,Cliente_049
+2025-03-03,Smartphone,Electrónica,835.41,6,Cliente_048
+2025-02-01,Chaqueta,Ropa,90.77,7,Cliente_014
+2025-05-06,Silla,Hogar,69.17,5,Cliente_015
+2025-04-21,Arroz 5kg,Alimentos,11.62,3,Cliente_049
+2025-02-10,Aceite 1L,Alimentos,6.55,7,Cliente_036
+2025-04-08,Zapatillas,Deportes,111.71,6,Cliente_049
+2025-03-31,Laptop,Electrónica,1199.37,7,Cliente_009
+2025-03-13,Camisa,Ropa,32.35,4,Cliente_016
+2025-12-15,Pelota,Deportes,25.25,10,Cliente_040
+2025-06-02,Pantalón,Ropa,53.21,5,Cliente_038
+2025-05-08,Arroz 5kg,Alimentos,11.55,5,Cliente_008
+2025-04-21,Pelota,Deportes,26.01,9,Cliente_028
+2025-04-13,Chaqueta,Ropa,94.45,3,Cliente_009
+2025-02-16,Laptop,Electrónica,1219.1,3,Cliente_019
+2025-08-30,Camisa,Ropa,34.37,10,Cliente_048
+2025-10-03,Auriculares,Electrónica,113.92,9,Cliente_017
+2025-08-21,Laptop,Electrónica,1316.47,5,Cliente_019
+2025-08-18,Mesa,Hogar,213.24,8,Cliente_040
+2025-05-28,Laptop,Electrónica,1295.74,8,Cliente_044
+2025-09-10,Laptop,Electrónica,1307.1,5,Cliente_008
+2025-09-17,Pantalón,Ropa,48.52,10,Cliente_014
+2025-04-23,Lámpara,Hogar,45.49,10,Cliente_001
+2025-11-14,Café 500g,Alimentos,8.61,7,Cliente_048
+2025-11-24,Zapatillas,Deportes,117.24,9,Cliente_038
+2025-05-05,Mesa,Hogar,195.36,7,Cliente_010
+2025-04-06,Laptop,Electrónica,1310.59,2,Cliente_005
+2025-06-29,Arroz 5kg,Alimentos,11.2,8,Cliente_029
+2025-12-13,Smartphone,Electrónica,742.52,4,Cliente_047
+2025-03-12,Zapatillas,Deportes,111.36,5,Cliente_007
+2025-02-28,Pantalón,Ropa,47.16,9,Cliente_023
+2025-06-23,Smartphone,Electrónica,759.66,2,Cliente_002
+2025-11-24,Pelota,Deportes,25.36,10,Cliente_002
+2025-08-28,Auriculares,Electrónica,119.96,9,Cliente_032
+2025-11-08,Silla,Hogar,77.14,1,Cliente_043
+2025-05-23,Chaqueta,Ropa,96.33,2,Cliente_029
+2025-07-23,Zapatillas,Deportes,100.9,5,Cliente_046
+2025-07-26,Chaqueta,Ropa,85.54,2,Cliente_033
+2025-11-25,Smartphone,Electrónica,740.05,6,Cliente_005
+2025-10-22,Zapatillas,Deportes,100.71,6,Cliente_028
+2025-09-29,Chaqueta,Ropa,94.73,9,Cliente_001
+2025-04-22,Arroz 5kg,Alimentos,10.88,2,Cliente_015
+2025-11-12,Mesa,Hogar,200.87,5,Cliente_035
+2025-06-06,Pantalón,Ropa,47.22,4,Cliente_043
+2025-02-06,Raqueta,Deportes,62.02,6,Cliente_026
+2025-12-04,Café 500g,Alimentos,7.96,3,Cliente_006
+2025-05-27,Zapatillas,Deportes,117.54,8,Cliente_035
+2025-02-04,Smartphone,Electrónica,803.76,6,Cliente_034
+2025-11-22,Zapatillas,Deportes,112.42,2,Cliente_030
+2025-09-24,Camisa,Ropa,37.38,5,Cliente_032
+2025-11-17,Smartphone,Electrónica,829.98,5,Cliente_038
+2025-09-28,Arroz 5kg,Alimentos,11.72,8,Cliente_017
+2025-03-17,Raqueta,Deportes,64.44,6,Cliente_039
+2025-06-09,Pelota,Deportes,26.15,4,Cliente_026
+2025-06-05,Pantalón,Ropa,49.06,1,Cliente_019
+2025-12-17,Chaqueta,Ropa,95.64,3,Cliente_030
+2025-03-11,Mesa,Hogar,199.14,3,Cliente_005
+2025-11-02,Auriculares,Electrónica,127.01,7,Cliente_005
+2025-02-25,Auriculares,Electrónica,123.76,4,Cliente_023
+2025-04-10,Arroz 5kg,Alimentos,10.92,9,Cliente_024
+2025-06-23,Aceite 1L,Alimentos,7.0,7,Cliente_030
+2025-10-17,Lámpara,Hogar,41.24,10,Cliente_034
+2025-01-20,Café 500g,Alimentos,8.54,9,Cliente_043
+2025-10-29,Auriculares,Electrónica,108.36,4,Cliente_021
+2025-08-22,Café 500g,Alimentos,7.6,2,Cliente_009
+2025-10-23,Pelota,Deportes,25.86,5,Cliente_003
+2025-07-09,Zapatillas,Deportes,100.51,4,Cliente_019
+2025-06-02,Pantalón,Ropa,49.83,7,Cliente_030
+2025-11-17,Raqueta,Deportes,60.4,6,Cliente_046
+2025-07-06,Silla,Hogar,78.29,4,Cliente_028
+2025-09-23,Pelota,Deportes,26.28,8,Cliente_042
+2025-10-23,Pantalón,Ropa,54.67,10,Cliente_015
+2025-05-03,Aceite 1L,Alimentos,6.01,10,Cliente_046
+2025-12-07,Silla,Hogar,69.33,6,Cliente_049
+2025-08-11,Zapatillas,Deportes,117.23,3,Cliente_012
+2025-06-20,Laptop,Electrónica,1090.87,3,Cliente_031
+2025-05-20,Raqueta,Deportes,63.37,6,Cliente_008
+2025-02-17,Silla,Hogar,72.04,9,Cliente_033
+2025-01-21,Auriculares,Electrónica,109.0,6,Cliente_023
+2025-05-08,Arroz 5kg,Alimentos,11.24,8,Cliente_005
+2025-08-17,Zapatillas,Deportes,110.11,9,Cliente_011
+2025-03-08,Arroz 5kg,Alimentos,11.03,6,Cliente_036
+2025-12-14,Silla,Hogar,70.35,5,Cliente_049
+2025-02-22,Lámpara,Hogar,46.72,4,Cliente_045
+2025-05-04,Café 500g,Alimentos,8.72,2,Cliente_047
+2025-07-21,Smartphone,Electrónica,740.59,2,Cliente_024
+2025-07-05,Pantalón,Ropa,53.29,10,Cliente_037
+2025-06-26,Aceite 1L,Alimentos,6.46,9,Cliente_009
+2025-10-25,Chaqueta,Ropa,85.34,2,Cliente_048
+2025-11-02,Café 500g,Alimentos,8.34,7,Cliente_034
+2025-02-25,Pelota,Deportes,24.31,10,Cliente_029
+2025-03-25,Arroz 5kg,Alimentos,11.47,6,Cliente_024
+2025-11-05,Silla,Hogar,71.93,8,Cliente_046
+2025-01-12,Pantalón,Ropa,54.93,5,Cliente_043
+2025-11-15,Camisa,Ropa,37.15,9,Cliente_040
+2025-02-10,Café 500g,Alimentos,7.67,2,Cliente_021
+2025-04-10,Arroz 5kg,Alimentos,12.93,10,Cliente_046
+2025-03-15,Silla,Hogar,74.99,8,Cliente_017
+2025-12-08,Pelota,Deportes,25.91,6,Cliente_023
+2025-11-05,Auriculares,Electrónica,114.14,3,Cliente_010
+2025-08-18,Camisa,Ropa,32.84,9,Cliente_009
+2025-09-11,Chaqueta,Ropa,81.88,5,Cliente_039
+2025-12-18,Arroz 5kg,Alimentos,11.46,10,Cliente_050
+2025-04-08,Café 500g,Alimentos,7.39,10,Cliente_017
+2025-08-19,Raqueta,Deportes,59.25,4,Cliente_023
+2025-03-26,Arroz 5kg,Alimentos,11.61,7,Cliente_030
+2025-11-11,Laptop,Electrónica,1254.44,6,Cliente_028
+2025-11-21,Smartphone,Electrónica,740.19,10,Cliente_038
+2025-07-05,Raqueta,Deportes,55.89,3,Cliente_033
+2025-01-16,Smartphone,Electrónica,845.0,1,Cliente_016
+2025-11-23,Silla,Hogar,81.08,4,Cliente_015
+2025-03-17,Silla,Hogar,78.32,7,Cliente_044
+2025-03-18,Lámpara,Hogar,49.49,8,Cliente_029
+2025-03-02,Pantalón,Ropa,45.85,4,Cliente_036
+2025-09-07,Arroz 5kg,Alimentos,11.07,10,Cliente_034
+2025-12-14,Laptop,Electrónica,1114.27,10,Cliente_029
+2025-06-10,Lámpara,Hogar,47.12,1,Cliente_004
+2025-11-10,Chaqueta,Ropa,98.1,8,Cliente_047
+2025-12-06,Zapatillas,Deportes,107.67,10,Cliente_002
+2025-10-23,Auriculares,Electrónica,125.36,10,Cliente_031
+2025-10-15,Camisa,Ropa,34.8,10,Cliente_021
+2025-11-26,Silla,Hogar,81.36,10,Cliente_041
+2025-03-26,Silla,Hogar,74.63,9,Cliente_017
+2025-12-23,Silla,Hogar,73.63,7,Cliente_019
+2025-11-12,Silla,Hogar,78.72,3,Cliente_037
+2025-09-01,Arroz 5kg,Alimentos,12.06,2,Cliente_029
+2025-03-04,Zapatillas,Deportes,120.97,4,Cliente_009
+2025-09-06,Aceite 1L,Alimentos,6.14,7,Cliente_002
+2025-01-20,Auriculares,Electrónica,121.93,5,Cliente_007
+2025-05-05,Lámpara,Hogar,47.17,4,Cliente_004
+2025-05-28,Camisa,Ropa,38.09,5,Cliente_046
+2025-03-25,Auriculares,Electrónica,130.22,4,Cliente_012
+2025-09-12,Mesa,Hogar,218.94,10,Cliente_019
+2025-03-23,Aceite 1L,Alimentos,6.53,10,Cliente_024
+2025-04-19,Laptop,Electrónica,1081.84,5,Cliente_050
+2025-12-12,Chaqueta,Ropa,89.37,8,Cliente_014
+2025-06-01,Pantalón,Ropa,54.81,4,Cliente_015
+2025-06-16,Arroz 5kg,Alimentos,11.61,8,Cliente_012
+2025-02-08,Pantalón,Ropa,51.39,1,Cliente_043
+2025-04-10,Camisa,Ropa,33.67,8,Cliente_024
+2025-11-22,Arroz 5kg,Alimentos,12.9,1,Cliente_025
+2025-04-25,Mesa,Hogar,201.58,6,Cliente_042
+2025-10-01,Silla,Hogar,68.57,3,Cliente_047
+2025-02-21,Aceite 1L,Alimentos,6.66,10,Cliente_005
+2025-04-01,Pelota,Deportes,26.3,2,Cliente_050
+2025-03-08,Silla,Hogar,77.98,7,Cliente_039
+2025-09-06,Raqueta,Deportes,56.84,7,Cliente_031
+2025-12-07,Camisa,Ropa,35.49,3,Cliente_043
+2025-06-22,Silla,Hogar,76.87,10,Cliente_037
+2025-02-13,Camisa,Ropa,37.65,2,Cliente_047
+2025-04-15,Pantalón,Ropa,51.05,6,Cliente_044
+2025-03-06,Laptop,Electrónica,1121.82,1,Cliente_048
+2025-10-15,Aceite 1L,Alimentos,6.57,7,Cliente_001
+2025-05-17,Chaqueta,Ropa,85.35,2,Cliente_029
+2025-11-30,Silla,Hogar,79.07,5,Cliente_014
+2025-11-06,Zapatillas,Deportes,108.5,6,Cliente_017
+2025-07-07,Mesa,Hogar,194.63,7,Cliente_003
+2025-06-18,Mesa,Hogar,195.9,2,Cliente_044
+2025-11-29,Laptop,Electrónica,1156.48,2,Cliente_022
+2025-06-12,Camisa,Ropa,36.33,8,Cliente_031
+2025-01-02,Auriculares,Electrónica,121.25,3,Cliente_027
+2025-10-09,Silla,Hogar,79.06,1,Cliente_011
+2025-10-03,Mesa,Hogar,199.16,4,Cliente_018
+2025-01-05,Lámpara,Hogar,49.35,9,Cliente_043
+2025-08-01,Auriculares,Electrónica,124.95,2,Cliente_027
+2025-10-15,Laptop,Electrónica,1220.75,9,Cliente_022
+2025-12-26,Chaqueta,Ropa,84.77,5,Cliente_044
+2025-10-28,Laptop,Electrónica,1101.92,10,Cliente_002
+2025-10-10,Café 500g,Alimentos,7.97,6,Cliente_049
+2025-12-31,Arroz 5kg,Alimentos,12.45,8,Cliente_029
+2025-02-17,Silla,Hogar,82.49,1,Cliente_049
+2025-08-25,Smartphone,Electrónica,822.84,3,Cliente_012
+2025-07-29,Mesa,Hogar,199.15,7,Cliente_037
+2025-08-13,Lámpara,Hogar,47.78,3,Cliente_003
+2025-07-22,Lámpara,Hogar,46.59,7,Cliente_023
+2025-02-17,Raqueta,Deportes,65.37,9,Cliente_042
+2025-12-26,Camisa,Ropa,33.52,5,Cliente_030
+2025-09-29,Laptop,Electrónica,1220.2,9,Cliente_011
+2025-04-30,Pelota,Deportes,23.95,2,Cliente_007
+2025-07-30,Camisa,Ropa,35.5,4,Cliente_003
+2025-03-18,Silla,Hogar,77.8,3,Cliente_037
+2025-05-29,Mesa,Hogar,182.6,9,Cliente_020
+2025-01-07,Chaqueta,Ropa,82.24,6,Cliente_027
+2025-05-28,Arroz 5kg,Alimentos,12.88,1,Cliente_039
+2025-01-29,Mesa,Hogar,202.28,6,Cliente_015
+2025-06-23,Silla,Hogar,68.98,7,Cliente_007
+2025-02-27,Lámpara,Hogar,43.42,1,Cliente_024
+2025-11-09,Café 500g,Alimentos,7.77,5,Cliente_031
+2025-05-13,Mesa,Hogar,214.46,8,Cliente_049
+2025-01-23,Raqueta,Deportes,58.13,5,Cliente_047
+2025-05-30,Silla,Hogar,79.98,8,Cliente_033
+2025-02-15,Aceite 1L,Alimentos,6.93,6,Cliente_028
+2025-11-11,Silla,Hogar,80.46,2,Cliente_039
+2025-03-01,Raqueta,Deportes,60.43,1,Cliente_017
+2025-08-29,Raqueta,Deportes,59.06,2,Cliente_002
+2025-02-17,Zapatillas,Deportes,118.98,1,Cliente_041
+2025-08-14,Lámpara,Hogar,43.06,8,Cliente_022
+2025-12-22,Raqueta,Deportes,55.21,3,Cliente_020
+2025-10-11,Laptop,Electrónica,1233.88,6,Cliente_007
+2025-08-06,Silla,Hogar,77.81,2,Cliente_015
+2025-08-13,Raqueta,Deportes,60.83,5,Cliente_008
+2025-02-05,Café 500g,Alimentos,8.39,3,Cliente_018
+2025-05-06,Chaqueta,Ropa,87.75,3,Cliente_034
+2025-03-23,Raqueta,Deportes,61.38,4,Cliente_021
+2025-10-18,Auriculares,Electrónica,116.88,6,Cliente_039
+2025-03-21,Aceite 1L,Alimentos,6.1,3,Cliente_005
+2025-02-07,Camisa,Ropa,38.39,10,Cliente_030
+2025-11-01,Zapatillas,Deportes,111.53,10,Cliente_003
+2025-02-13,Aceite 1L,Alimentos,5.98,6,Cliente_033
+2025-10-27,Aceite 1L,Alimentos,7.04,3,Cliente_028
+2025-10-14,Mesa,Hogar,217.52,5,Cliente_025
+2025-01-20,Pelota,Deportes,26.01,7,Cliente_031
+2025-03-12,Auriculares,Electrónica,127.61,10,Cliente_017
+2025-09-02,Auriculares,Electrónica,131.17,5,Cliente_008
+2025-12-21,Arroz 5kg,Alimentos,11.17,3,Cliente_050
+2025-01-26,Silla,Hogar,77.09,1,Cliente_022
+2025-07-29,Chaqueta,Ropa,97.52,7,Cliente_050
+2025-05-17,Café 500g,Alimentos,7.56,3,Cliente_010
+2025-11-01,Smartphone,Electrónica,729.54,5,Cliente_048
+2025-06-23,Smartphone,Electrónica,795.12,5,Cliente_040
+2025-05-20,Aceite 1L,Alimentos,6.75,7,Cliente_033
+2025-09-20,Pelota,Deportes,23.3,8,Cliente_010
+2025-08-30,Mesa,Hogar,190.94,8,Cliente_016
+2025-02-07,Silla,Hogar,72.0,6,Cliente_001
+2025-06-29,Camisa,Ropa,32.9,8,Cliente_020
+2025-04-15,Aceite 1L,Alimentos,6.66,1,Cliente_018
+2025-10-13,Camisa,Ropa,38.2,5,Cliente_020
+2025-05-19,Camisa,Ropa,32.64,7,Cliente_041
+2025-12-10,Silla,Hogar,79.37,3,Cliente_045
+2025-05-03,Zapatillas,Deportes,120.68,5,Cliente_004
+2025-09-30,Chaqueta,Ropa,98.22,8,Cliente_022
+2025-04-16,Camisa,Ropa,38.42,10,Cliente_005
+2025-04-12,Raqueta,Deportes,61.67,10,Cliente_010
+2025-02-22,Mesa,Hogar,217.76,8,Cliente_001
+2025-04-08,Aceite 1L,Alimentos,6.57,7,Cliente_039
+2025-09-18,Camisa,Ropa,38.48,3,Cliente_032
+2025-03-06,Aceite 1L,Alimentos,6.91,9,Cliente_009
+2025-06-10,Arroz 5kg,Alimentos,11.8,2,Cliente_028
+2025-11-02,Smartphone,Electrónica,853.87,8,Cliente_035
+2025-02-14,Auriculares,Electrónica,125.68,9,Cliente_038
+2025-12-23,Raqueta,Deportes,59.04,10,Cliente_002
+2025-08-29,Silla,Hogar,79.71,2,Cliente_023
+2025-12-05,Camisa,Ropa,36.43,1,Cliente_015
+2025-05-27,Pelota,Deportes,23.23,1,Cliente_031
+2025-01-29,Zapatillas,Deportes,99.64,6,Cliente_019
+2025-01-23,Café 500g,Alimentos,7.55,10,Cliente_047
+2025-08-11,Silla,Hogar,72.6,5,Cliente_011
+2025-10-11,Café 500g,Alimentos,7.82,10,Cliente_048
+2025-04-27,Smartphone,Electrónica,757.56,5,Cliente_048
+2025-01-10,Silla,Hogar,73.85,6,Cliente_024
+2025-10-27,Aceite 1L,Alimentos,6.33,5,Cliente_025
+2025-12-09,Chaqueta,Ropa,97.82,4,Cliente_046
+2025-09-17,Pantalón,Ropa,53.44,2,Cliente_050
+2025-05-17,Smartphone,Electrónica,829.07,9,Cliente_050
+2025-10-13,Chaqueta,Ropa,82.19,2,Cliente_044
+2025-10-02,Pelota,Deportes,24.47,5,Cliente_008
+2025-04-20,Camisa,Ropa,33.45,8,Cliente_035
+2025-06-30,Pelota,Deportes,26.49,10,Cliente_015
+2025-09-23,Mesa,Hogar,182.49,3,Cliente_014
+2025-12-07,Café 500g,Alimentos,7.4,7,Cliente_025
+2025-12-05,Arroz 5kg,Alimentos,12.47,9,Cliente_046
+2025-06-19,Auriculares,Electrónica,120.05,10,Cliente_007
+2025-03-01,Zapatillas,Deportes,114.42,7,Cliente_009
+2025-12-14,Silla,Hogar,73.59,9,Cliente_011
+2025-03-17,Raqueta,Deportes,58.43,9,Cliente_028
+2025-03-21,Smartphone,Electrónica,862.35,9,Cliente_018
+2025-04-08,Chaqueta,Ropa,82.09,5,Cliente_008
+2025-10-11,Café 500g,Alimentos,8.01,9,Cliente_002
+2025-09-17,Silla,Hogar,80.22,5,Cliente_020
+2025-03-20,Silla,Hogar,70.03,10,Cliente_011
+2025-03-08,Laptop,Electrónica,1146.55,3,Cliente_035
+2025-06-04,Smartphone,Electrónica,844.19,4,Cliente_008
+2025-09-23,Zapatillas,Deportes,118.1,2,Cliente_010
+2025-09-03,Silla,Hogar,81.96,1,Cliente_026
+2025-04-19,Café 500g,Alimentos,8.6,7,Cliente_035
+2025-04-17,Lámpara,Hogar,41.04,2,Cliente_041
+2025-12-02,Mesa,Hogar,209.06,7,Cliente_007
+2025-01-19,Mesa,Hogar,211.05,8,Cliente_019
+2025-08-03,Aceite 1L,Alimentos,6.33,9,Cliente_038
+2025-09-22,Silla,Hogar,77.25,8,Cliente_029
+2025-05-23,Raqueta,Deportes,60.68,2,Cliente_037
+2025-12-29,Silla,Hogar,70.09,4,Cliente_029
+2025-06-13,Pantalón,Ropa,47.34,6,Cliente_035
+2025-06-21,Pantalón,Ropa,50.15,10,Cliente_006
+2025-05-21,Smartphone,Electrónica,795.03,5,Cliente_038
+2025-12-06,Raqueta,Deportes,63.89,2,Cliente_014
+2025-05-11,Aceite 1L,Alimentos,6.68,8,Cliente_043
+2025-12-05,Pantalón,Ropa,52.99,2,Cliente_002
+2025-10-10,Auriculares,Electrónica,115.46,1,Cliente_027
+2025-08-06,Silla,Hogar,79.56,4,Cliente_008
+2025-12-03,Auriculares,Electrónica,128.88,10,Cliente_026
+2025-02-16,Zapatillas,Deportes,105.79,1,Cliente_026
+2025-09-08,Silla,Hogar,80.29,9,Cliente_017
+2025-05-17,Chaqueta,Ropa,97.64,9,Cliente_006
+2025-02-11,Laptop,Electrónica,1278.06,1,Cliente_003
+2025-12-11,Raqueta,Deportes,65.42,4,Cliente_020
+2025-01-13,Camisa,Ropa,37.15,3,Cliente_003
+2025-03-22,Smartphone,Electrónica,861.33,3,Cliente_049
+2025-05-30,Aceite 1L,Alimentos,6.75,8,Cliente_003
+2025-08-16,Raqueta,Deportes,54.89,3,Cliente_006
+2025-07-10,Auriculares,Electrónica,124.3,6,Cliente_029
+2025-05-12,Laptop,Electrónica,1297.41,1,Cliente_014
+2025-03-18,Arroz 5kg,Alimentos,11.48,10,Cliente_022
+2025-11-09,Camisa,Ropa,36.75,10,Cliente_043
+2025-06-24,Pantalón,Ropa,46.8,4,Cliente_050
+2025-05-12,Zapatillas,Deportes,105.0,3,Cliente_031
+2025-11-20,Chaqueta,Ropa,93.22,1,Cliente_042
+2025-01-17,Chaqueta,Ropa,87.89,10,Cliente_039
+2025-03-24,Pelota,Deportes,23.15,5,Cliente_048
+2025-10-31,Pelota,Deportes,24.92,7,Cliente_018
+2025-03-29,Arroz 5kg,Alimentos,12.16,3,Cliente_012
+2025-04-22,Aceite 1L,Alimentos,6.05,5,Cliente_004
+2025-06-08,Laptop,Electrónica,1164.47,2,Cliente_030
+2025-11-17,Auriculares,Electrónica,120.18,2,Cliente_020
+2025-01-22,Camisa,Ropa,31.81,4,Cliente_021
+2025-06-29,Smartphone,Electrónica,813.24,3,Cliente_020
+2025-06-06,Raqueta,Deportes,61.06,7,Cliente_037
+2025-08-30,Laptop,Electrónica,1104.05,6,Cliente_007
+2025-05-27,Pantalón,Ropa,45.37,4,Cliente_023
+2025-03-23,Lámpara,Hogar,43.0,1,Cliente_045
+2025-04-08,Camisa,Ropa,31.72,2,Cliente_002
+2025-11-02,Pelota,Deportes,26.99,1,Cliente_031
+2025-02-13,Zapatillas,Deportes,109.43,2,Cliente_006
+2025-07-05,Raqueta,Deportes,59.88,7,Cliente_041
+2025-06-19,Arroz 5kg,Alimentos,13.19,9,Cliente_023
+2025-10-01,Zapatillas,Deportes,101.81,10,Cliente_002
+2025-08-23,Laptop,Electrónica,1137.23,10,Cliente_005
+2025-12-02,Laptop,Electrónica,1253.39,7,Cliente_010
+2025-10-14,Pelota,Deportes,24.82,9,Cliente_039
+2025-11-03,Café 500g,Alimentos,7.99,2,Cliente_003
+2025-11-05,Café 500g,Alimentos,8.4,9,Cliente_015
+2025-04-12,Café 500g,Alimentos,8.16,9,Cliente_046
+2025-07-16,Smartphone,Electrónica,742.14,4,Cliente_045
+2025-01-09,Silla,Hogar,78.18,8,Cliente_006
+2025-12-02,Mesa,Hogar,183.16,8,Cliente_017
+2025-03-09,Café 500g,Alimentos,7.54,5,Cliente_023
+2025-05-23,Silla,Hogar,70.4,6,Cliente_005
+2025-04-08,Camisa,Ropa,36.99,7,Cliente_007
+2025-05-27,Aceite 1L,Alimentos,5.9,6,Cliente_005
+2025-08-21,Raqueta,Deportes,63.13,1,Cliente_006
+2025-04-28,Smartphone,Electrónica,833.25,1,Cliente_005
+2025-09-29,Lámpara,Hogar,43.82,9,Cliente_023
+2025-02-25,Raqueta,Deportes,61.66,6,Cliente_044
+2025-06-24,Pelota,Deportes,26.45,7,Cliente_033
+2025-08-25,Raqueta,Deportes,65.86,9,Cliente_027
+2025-05-29,Lámpara,Hogar,44.14,7,Cliente_008
+2025-08-21,Café 500g,Alimentos,7.54,7,Cliente_022
+2025-10-31,Lámpara,Hogar,47.15,5,Cliente_022
+2025-05-26,Chaqueta,Ropa,98.05,9,Cliente_006
+2025-05-28,Chaqueta,Ropa,91.09,5,Cliente_008
+2025-11-30,Zapatillas,Deportes,99.9,10,Cliente_013
+2025-05-29,Camisa,Ropa,32.49,1,Cliente_025
+2025-03-03,Pelota,Deportes,24.01,10,Cliente_037
+2025-12-21,Chaqueta,Ropa,98.53,8,Cliente_032
+2025-09-26,Mesa,Hogar,199.37,10,Cliente_039
+2025-07-22,Zapatillas,Deportes,99.59,1,Cliente_033
+2025-02-19,Chaqueta,Ropa,82.84,7,Cliente_023
+2025-03-10,Laptop,Electrónica,1283.32,7,Cliente_017
+2025-08-16,Arroz 5kg,Alimentos,11.67,4,Cliente_040
+2025-07-14,Raqueta,Deportes,64.57,10,Cliente_031
+2025-06-23,Café 500g,Alimentos,7.33,5,Cliente_015
+2025-11-21,Smartphone,Electrónica,789.44,2,Cliente_046
+2025-05-26,Mesa,Hogar,213.84,2,Cliente_006
+2025-10-07,Smartphone,Electrónica,732.04,3,Cliente_003
+2025-05-09,Mesa,Hogar,198.15,5,Cliente_015
+2025-03-26,Camisa,Ropa,37.55,1,Cliente_025
+2025-11-27,Laptop,Electrónica,1110.3,4,Cliente_024
+2025-08-12,Lámpara,Hogar,44.41,6,Cliente_039
+2025-04-19,Laptop,Electrónica,1142.44,6,Cliente_030
+2025-11-14,Smartphone,Electrónica,817.52,7,Cliente_044
+2025-02-28,Pelota,Deportes,23.98,6,Cliente_030
+2025-10-26,Silla,Hogar,69.14,7,Cliente_020
+2025-03-09,Chaqueta,Ropa,85.3,7,Cliente_043
+2025-11-18,Mesa,Hogar,210.7,3,Cliente_007
+2025-03-11,Smartphone,Electrónica,757.57,9,Cliente_025
+2025-10-28,Raqueta,Deportes,63.18,4,Cliente_014
+2025-03-29,Arroz 5kg,Alimentos,10.85,6,Cliente_040
+2025-01-19,Zapatillas,Deportes,115.71,9,Cliente_040
+2025-10-16,Auriculares,Electrónica,119.37,2,Cliente_014
+2025-04-09,Café 500g,Alimentos,8.72,3,Cliente_014
+2025-02-20,Aceite 1L,Alimentos,6.9,9,Cliente_004
+2025-04-03,Raqueta,Deportes,62.32,1,Cliente_018
+2025-11-08,Smartphone,Electrónica,863.88,6,Cliente_010
+2025-08-08,Pelota,Deportes,22.71,9,Cliente_043
+2025-04-23,Silla,Hogar,78.02,7,Cliente_029
+2025-07-08,Lámpara,Hogar,43.2,1,Cliente_022
+2025-08-14,Smartphone,Electrónica,830.18,3,Cliente_027
+2025-10-22,Smartphone,Electrónica,812.59,5,Cliente_044
+2025-05-29,Aceite 1L,Alimentos,7.01,9,Cliente_042
+2025-09-28,Raqueta,Deportes,55.79,10,Cliente_028
+2025-07-24,Pelota,Deportes,23.9,9,Cliente_044
+2025-06-08,Zapatillas,Deportes,112.8,1,Cliente_029
+2025-08-14,Pelota,Deportes,24.34,7,Cliente_025
+2025-03-24,Arroz 5kg,Alimentos,11.6,2,Cliente_022
+2025-07-25,Auriculares,Electrónica,112.78,9,Cliente_033
+2025-07-25,Raqueta,Deportes,54.39,6,Cliente_018
+2025-05-17,Pelota,Deportes,25.85,4,Cliente_011
+2025-10-11,Pelota,Deportes,24.97,6,Cliente_037
+2025-10-15,Auriculares,Electrónica,126.26,9,Cliente_007
+2025-08-25,Smartphone,Electrónica,755.95,2,Cliente_008
+2025-06-20,Zapatillas,Deportes,108.07,3,Cliente_027
+2025-03-25,Chaqueta,Ropa,97.76,6,Cliente_026
+2025-07-07,Pelota,Deportes,27.43,9,Cliente_049
+2025-06-11,Smartphone,Electrónica,753.76,10,Cliente_014
+2025-08-10,Auriculares,Electrónica,126.43,3,Cliente_033
+2025-08-25,Silla,Hogar,81.71,8,Cliente_050
+2025-07-11,Chaqueta,Ropa,85.24,2,Cliente_015
+2025-10-06,Raqueta,Deportes,58.35,6,Cliente_042
+2025-08-26,Auriculares,Electrónica,127.3,9,Cliente_004
+2025-08-09,Pantalón,Ropa,49.54,10,Cliente_007
+2025-01-22,Pelota,Deportes,26.52,5,Cliente_019
+2025-02-06,Zapatillas,Deportes,99.69,6,Cliente_033
+2025-07-02,Chaqueta,Ropa,85.57,1,Cliente_005
+2025-09-16,Café 500g,Alimentos,7.66,7,Cliente_029
+2025-09-14,Aceite 1L,Alimentos,5.85,5,Cliente_049
+2025-10-29,Raqueta,Deportes,55.27,7,Cliente_026
+2025-03-27,Aceite 1L,Alimentos,6.76,6,Cliente_039
+2025-12-20,Arroz 5kg,Alimentos,11.97,4,Cliente_031
+2025-03-25,Lámpara,Hogar,49.17,2,Cliente_020
+2025-05-04,Laptop,Electrónica,1231.67,10,Cliente_046
+2025-11-16,Smartphone,Electrónica,871.82,6,Cliente_021
+2025-06-28,Smartphone,Electrónica,804.9,4,Cliente_023
+2025-12-20,Pantalón,Ropa,51.39,7,Cliente_017
+2025-06-26,Café 500g,Alimentos,7.45,8,Cliente_038
+2025-11-07,Aceite 1L,Alimentos,6.45,6,Cliente_010
+2025-06-26,Chaqueta,Ropa,96.51,6,Cliente_026
+2025-03-29,Mesa,Hogar,182.05,8,Cliente_034
+2025-05-01,Mesa,Hogar,218.33,3,Cliente_007
+2025-11-15,Laptop,Electrónica,1125.02,6,Cliente_049
